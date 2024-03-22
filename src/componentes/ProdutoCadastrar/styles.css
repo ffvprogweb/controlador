@@ -1,0 +1,11 @@
+form {
+    text-align: left;
+    margin-left: 30px;
+  }
+  input:focus {
+    box-shadow: 0 0 3px;
+  }
+  .Borda {
+    border-radius: 5px;
+  }
+  

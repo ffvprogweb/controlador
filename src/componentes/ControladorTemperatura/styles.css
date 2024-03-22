@@ -1,0 +1,11 @@
+.button {
+    width: 170px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 113px; /*formato da borda*/
+    padding: 7px 12px; /*espaçamento entre o conteudo e a borda largura x altura  */
+    border: 1px solid #d5d5d5;
+    background-image: linear-gradient(#eee, #ddd);
+    font: 700 13px/18px Helvetica, arial;
+    margin-left: 10px; /*espaçamento em torno do elemento*/
+  }
